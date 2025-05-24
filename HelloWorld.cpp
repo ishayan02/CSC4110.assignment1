@@ -3,6 +3,6 @@
 // Author: Shayan Iqbal <ishayan02@gmail.com>
 
 int main() {
-std::cout <<"Hello World" <<std::endl;
+std::cout <<"Testing git merge" <<std::endl;
 return 0;
 }
